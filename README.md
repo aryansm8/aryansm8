@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aryansm8.
+- 👀 I’m interested in software developement.
+- 🌱 I’m currently learning Python.
+- 📫 Email: aryansm8@gmail.com
